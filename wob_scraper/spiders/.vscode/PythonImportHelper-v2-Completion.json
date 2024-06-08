@@ -1,0 +1,38 @@
+[
+    {
+        "label": "scrapy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "WobSitemapSpider",
+        "kind": 6,
+        "importPath": "wob_sitemap_spider",
+        "description": "wob_sitemap_spider",
+        "peekOfCode": "class WobSitemapSpider(scrapy.Spider):\n    name = 'wob_sitemap_spider'\n    start_urls = ['https://www.wob.com/sitemap/en-au/seo_friendly_sitemap.xml']\n    custom_settings = {\n        'FEEDS': {\n            'wob_sitemap.csv': {\n                'format': 'csv',\n                'encoding': 'utf8',\n                'overwrite': True,\n            },",
+        "detail": "wob_sitemap_spider",
+        "documentation": {}
+    }
+]

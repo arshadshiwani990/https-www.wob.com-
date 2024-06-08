@@ -1,0 +1,143 @@
+isbn,sku,price,availability,itemCondition,priceCurrency
+9780000000361,GOR013131800,79.99,https://schema.org/InStock,Very Good,AUD
+9780000000361,GOR013137620,79.99,https://schema.org/InStock,Good,AUD
+9780000000170,GOR013409825,39.99,https://schema.org/InStock,Very Good,AUD
+9780000000347,GOR007939267,26.49,https://schema.org/InStock,Very Good,AUD
+9780000000149,GOR013405405,268.99,https://schema.org/InStock,Very Good,AUD
+9780000000071,GOR012030005,13.49,https://schema.org/InStock,Very Good,AUD
+9780000000071,GOR013153446,13.49,https://schema.org/InStock,Good,AUD
+9780000000095,GOR003446054,23.99,https://schema.org/InStock,Very Good,AUD
+9780000000040,GOR007814902,17.99,https://schema.org/InStock,Very Good,AUD
+9780000000040,GOR007593341,17.99,https://schema.org/InStock,Good,AUD
+9780000000125,GOR006723182,36.99,https://schema.org/InStock,Very Good,AUD
+9780000000033,GOR005475599,15.49,https://schema.org/InStock,Well Read,AUD
+9780001056510,GOR005620078,227.99,https://schema.org/InStock,Very Good,AUD
+9780000000026,GOR004476215,20.89,https://schema.org/InStock,Good,AUD
+9780001055964,GOR008293380,35.99,https://schema.org/InStock,Very Good,AUD
+9780001057104,GOR006848677,194.99,https://schema.org/InStock,Very Good,AUD
+9780001041059,GOR007325793,24.49,https://schema.org/InStock,Very Good,AUD
+9780001041059,GOR007308847,24.49,https://schema.org/InStock,Well Read,AUD
+9780001041233,GOR013246051,16.99,https://schema.org/InStock,Like New,AUD
+9780006140603,GOR004849047,13.69,https://schema.org/InStock,Very Good,AUD
+9780006140603,GOR001883455,13.69,https://schema.org/InStock,Good,AUD
+9780001043800,GOR007558560,14.99,https://schema.org/InStock,Very Good,AUD
+9780006158509,GOR003621309,36.99,https://schema.org/InStock,Very Good,AUD
+9780006158509,GOR002118192,36.99,https://schema.org/InStock,Good,AUD
+9780004477428,GOR010454987,17.19,https://schema.org/InStock,Very Good,AUD
+9780004477428,GOR012812664,17.19,https://schema.org/InStock,Well Read,AUD
+9780006179245,GOR003349576,13.69,https://schema.org/InStock,Well Read,AUD
+9780006159698,GOR005189785,30.99,https://schema.org/InStock,Good,AUD
+9780006179290,GOR001316086,11.99,https://schema.org/InStock,Very Good,AUD
+9780006179290,GOR001212410,12.99,https://schema.org/InStock,Good,AUD
+9780006179290,GOR001164490,12.99,https://schema.org/InStock,Well Read,AUD
+9780006158431,GOR002710233,22.49,https://schema.org/InStock,Well Read,AUD
+9780006179221,GOR012577235,15.49,https://schema.org/InStock,Well Read,AUD
+9780006179238,GOR005397664,13.69,https://schema.org/InStock,Very Good,AUD
+9780006179238,GOR005095725,13.69,https://schema.org/InStock,Well Read,AUD
+9780006179207,GOR000268521,13.69,https://schema.org/InStock,Very Good,AUD
+9780006179207,GOR000070816,13.69,https://schema.org/InStock,Good,AUD
+9780006179207,GOR000377939,13.69,https://schema.org/InStock,Well Read,AUD
+9780006179184,GOR002093945,16.49,https://schema.org/InStock,Very Good,AUD
+9780006179184,GOR002088771,13.69,https://schema.org/InStock,Well Read,AUD
+9780006179160,GOR005102322,26.49,https://schema.org/InStock,Very Good,AUD
+9780006179160,GOR004029589,26.49,https://schema.org/InStock,Well Read,AUD
+9780006179061,GOR001381774,15.99,https://schema.org/InStock,Very Good,AUD
+9780006179061,GOR001075000,15.99,https://schema.org/InStock,Well Read,AUD
+9780006179191,GOR000471053,13.99,https://schema.org/InStock,Very Good,AUD
+9780006179191,GOR000066466,13.99,https://schema.org/InStock,Good,AUD
+9780006179191,GOR000352865,13.99,https://schema.org/InStock,Well Read,AUD
+9780006179115,GOR001687714,19.99,https://schema.org/InStock,Very Good,AUD
+9780006179115,GOR001287205,19.99,https://schema.org/InStock,Good,AUD
+9780006179122,GOR007176655,11.99,https://schema.org/InStock,Very Good,AUD
+9780006179085,GOR000295003,16.99,https://schema.org/InStock,Good,AUD
+9780006179085,GOR001313770,16.99,https://schema.org/InStock,Well Read,AUD
+9780006179085,NGR9780006179085,34.39,https://schema.org/InStock,New,AUD
+9780006179146,GOR002977653,25.99,https://schema.org/InStock,Very Good,AUD
+9780006179146,GOR005465744,13.69,https://schema.org/InStock,Well Read,AUD
+9780006178989,GOR002863017,11.99,https://schema.org/InStock,Very Good,AUD
+9780006178989,GOR010436679,11.99,https://schema.org/InStock,Good,AUD
+9780006178996,GOR000868670,17.19,https://schema.org/InStock,Well Read,AUD
+9780006179023,GOR007940998,28.99,https://schema.org/InStock,Well Read,AUD
+9780006178910,GOR004158382,31.99,https://schema.org/InStock,Good,AUD
+9780006178941,GOR005112909,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178941,GOR005111204,13.69,https://schema.org/InStock,Well Read,AUD
+9780006178958,GOR002651719,12.99,https://schema.org/InStock,Very Good,AUD
+9780006178958,GOR003926367,12.99,https://schema.org/InStock,Well Read,AUD
+9780006178972,GOR002992931,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178972,GOR002518054,13.69,https://schema.org/InStock,Good,AUD
+9780006178972,GOR001807365,13.69,https://schema.org/InStock,Well Read,AUD
+9780006178934,GOR012269261,13.69,https://schema.org/InStock,Well Read,AUD
+9780006178828,GOR002634292,15.49,https://schema.org/InStock,Very Good,AUD
+9780006178767,GOR003176363,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178767,GOR003180357,13.69,https://schema.org/InStock,Good,AUD
+9780006178767,GOR002915069,13.69,https://schema.org/InStock,Well Read,AUD
+9780006178842,GOR002263660,13.99,https://schema.org/InStock,Very Good,AUD
+9780006178842,GOR000821595,13.99,https://schema.org/InStock,Good,AUD
+9780006178842,GOR002763094,13.99,https://schema.org/InStock,Well Read,AUD
+9780006178835,GOR010598428,13.99,https://schema.org/InStock,Good,AUD
+9780006178835,GOR008496358,13.99,https://schema.org/InStock,Well Read,AUD
+9780006178774,GOR005748777,13.69,https://schema.org/InStock,Well Read,AUD
+9780006178866,GOR003108760,32.99,https://schema.org/InStock,Very Good,AUD
+9780006178859,GOR001262421,11.99,https://schema.org/InStock,Good,AUD
+9780006178859,GOR001276152,11.99,https://schema.org/InStock,Well Read,AUD
+9780006178736,GOR000283090,14.99,https://schema.org/InStock,Good,AUD
+9780006178736,GOR001663086,14.99,https://schema.org/InStock,Well Read,AUD
+9780006178712,GOR000516348,14.49,https://schema.org/InStock,Very Good,AUD
+9780006178712,GOR000514026,14.49,https://schema.org/InStock,Good,AUD
+9780006178712,GOR000572510,14.49,https://schema.org/InStock,Well Read,AUD
+9780006178521,GOR013601309,11.99,https://schema.org/InStock,Like New,AUD
+9780006178521,GOR007978214,11.99,https://schema.org/InStock,Very Good,AUD
+9780006178491,GOR002395692,14.99,https://schema.org/InStock,Very Good,AUD
+9780006178491,GOR002754463,14.99,https://schema.org/InStock,Good,AUD
+9780006178491,GOR003137830,14.99,https://schema.org/InStock,Well Read,AUD
+9780006178484,GOR004296998,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178699,GOR002650108,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178699,GOR000322398,13.69,https://schema.org/InStock,Good,AUD
+9780006178538,GOR003715365,16.49,https://schema.org/InStock,Very Good,AUD
+9780006178552,GOR002879184,11.99,https://schema.org/InStock,Very Good,AUD
+9780006178545,GOR001900008,11.99,https://schema.org/InStock,Very Good,AUD
+9780006178545,GOR002879186,11.99,https://schema.org/InStock,Good,AUD
+9780006178477,GOR004482858,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178477,GOR001939107,13.99,https://schema.org/InStock,Well Read,AUD
+9780006178453,GOR002649063,13.69,https://schema.org/InStock,Very Good,AUD
+9780006178453,GOR004933818,13.69,https://schema.org/InStock,Good,AUD
+9780006178309,GOR002733163,16.99,https://schema.org/InStock,Very Good,AUD
+9780006178309,GOR003166710,16.99,https://schema.org/InStock,Good,AUD
+9780006178262,GOR001832411,16.99,https://schema.org/InStock,Very Good,AUD
+9780006178439,GOR002210866,13.99,https://schema.org/InStock,Very Good,AUD
+9780006178439,GOR013276054,13.99,https://schema.org/InStock,Well Read,AUD
+9780006178323,GOR012207529,17.19,https://schema.org/InStock,Very Good,AUD
+9780006178323,GOR005537952,17.19,https://schema.org/InStock,Well Read,AUD
+9780006178217,GOR000794203,13.99,https://schema.org/InStock,Very Good,AUD
+9780006178217,GOR000252367,13.99,https://schema.org/InStock,Good,AUD
+9780006178217,GOR000832276,13.99,https://schema.org/InStock,Well Read,AUD
+9780006178194,GOR002529612,30.99,https://schema.org/InStock,Very Good,AUD
+9780006178194,GOR001543273,30.99,https://schema.org/InStock,Well Read,AUD
+9780006178057,GOR002784008,17.99,https://schema.org/InStock,Very Good,AUD
+9780006178057,GOR002709679,17.99,https://schema.org/InStock,Good,AUD
+9780006178057,GOR001743843,17.99,https://schema.org/InStock,Well Read,AUD
+9780006178163,GOR002684270,38.99,https://schema.org/InStock,Very Good,AUD
+9780006178040,GOR001305843,30.99,https://schema.org/InStock,Very Good,AUD
+9780006178040,GOR001079123,24.99,https://schema.org/InStock,Good,AUD
+9780006178040,GOR000760885,30.99,https://schema.org/InStock,Well Read,AUD
+9780006178231,GOR005710784,15.99,https://schema.org/InStock,Very Good,AUD
+9780006178095,GOR001796276,20.49,https://schema.org/InStock,Well Read,AUD
+9780006178033,GOR001511408,14.49,https://schema.org/InStock,Very Good,AUD
+9780006178033,GOR000871852,14.49,https://schema.org/InStock,Good,AUD
+9780006178033,GOR000987154,14.49,https://schema.org/InStock,Well Read,AUD
+9780006178224,GOR000461980,14.49,https://schema.org/InStock,Very Good,AUD
+9780006178224,GOR000058751,13.69,https://schema.org/InStock,Good,AUD
+9780006178224,GOR000176600,14.49,https://schema.org/InStock,Well Read,AUD
+9780006178224,NGR9780006178224,31.59,https://schema.org/InStock,New,AUD
+9780006178002,GOR003684468,13.69,https://schema.org/InStock,Very Good,AUD
+9780006177982,GOR000469942,13.69,https://schema.org/InStock,Very Good,AUD
+9780006177982,GOR000488998,13.69,https://schema.org/InStock,Good,AUD
+9780006177975,GOR003569249,24.99,https://schema.org/InStock,Very Good,AUD
+9780006177975,GOR004550600,11.99,https://schema.org/InStock,Good,AUD
+9780006177944,GOR008634088,13.99,https://schema.org/InStock,Very Good,AUD
+9780006177890,GOR003715203,11.99,https://schema.org/InStock,Very Good,AUD
+9780006177890,GOR002102225,11.99,https://schema.org/InStock,Well Read,AUD
+9780006177906,GOR001230372,25.49,https://schema.org/InStock,Very Good,AUD
+9780006177883,GOR001942575,17.19,https://schema.org/InStock,Very Good,AUD
+9780006177883,GOR002652664,17.99,https://schema.org/InStock,Well Read,AUD
+9780006177838,GOR002096299,13.69,https://schema.org/InStock,Very Good,AUD
